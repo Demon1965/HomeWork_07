@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\Exercise_47.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\Exercise_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\Exercise_47.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\Exercise_47.AssemblyInfo.cs
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\Exercise_47.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\bin\Debug\net7.0\Exercise_47.exe
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\bin\Debug\net7.0\Exercise_47.deps.json
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\bin\Debug\net7.0\Exercise_47.runtimeconfig.json
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\bin\Debug\net7.0\Exercise_47.dll
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\bin\Debug\net7.0\Exercise_47.pdb
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\Exercise_47.dll
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\refint\Exercise_47.dll
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\Exercise_47.pdb
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\Exercise_47.genruntimeconfig.cache
+C:\Users\User\Desktop\BG\HW\HomeWork_07\Exercise_47\obj\Debug\net7.0\ref\Exercise_47.dll
